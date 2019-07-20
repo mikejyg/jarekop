@@ -1,0 +1,47 @@
+with shuffle2, 1000000 deals
+
+result seed 1:
+
+high card: 173765, 17.376501%
+pair: 437580, 43.758%
+two pair: 235238, 23.5238%
+three of a kind: 48965, 4.8965%
+straight: 46262, 4.6262%
+flush: 30548, 3.0548%
+full house: 25585, 2.5585%
+four of a kind: 1756, 0.17559999%
+straight flush: 301, 0.0301%
+
+result seed 1000000:
+
+high card: 173524, 17.3524%
+pair: 438555, 43.8555%
+two pair: 234113, 23.411299%
+three of a kind: 49274, 4.9274%
+straight: 46445, 4.6445003%
+flush: 30370, 3.0370002%
+full house: 25705, 2.5705001%
+four of a kind: 1706, 0.1706%
+straight flush: 308, 0.030799998%
+
+result seed 1 (reversed deck read out):
+high card: 174627, 17.4627%
+pair: 437090, 43.709%
+two pair: 235112, 23.5112%
+three of a kind: 48824, 4.8824%
+straight: 46690, 4.6689997%
+flush: 30178, 3.0177999%
+full house: 25479, 2.5479%
+four of a kind: 1693, 0.16929999%
+straight flush: 307, 0.030700002%
+
+result seed 1000000 (reversed deck read out):
+high card: 174516, 17.451601%
+pair: 437959, 43.7959%
+two pair: 235129, 23.5129%
+three of a kind: 48382, 4.8382%
+straight: 46033, 4.6033%
+flush: 30296, 3.0296%
+full house: 25718, 2.5718%
+four of a kind: 1642, 0.16420001%
+straight flush: 325, 0.0325%
